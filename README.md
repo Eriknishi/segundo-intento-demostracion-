@@ -1,5 +1,5 @@
-#probando el readme (titulo)
+# probando el readme (el titulo)
 
-mi primera vez usandoo esto
+mi primera vez usando esto 
 
-##mas chico el titulo (subtitulo)
+## mas chico el titulo (el subtitulo)
